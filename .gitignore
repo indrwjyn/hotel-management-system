@@ -1,0 +1,13 @@
+# Log dan file debug
+*.log
+post_debug.log
+
+# Konfigurasi lokal
+src/koneksi.local.php
+.env
+
+# OS dan editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
